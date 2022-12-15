@@ -1,0 +1,7 @@
+Link-local IPv6 Address . . . . . : fe80::c9a6:7b6b:c272:935f%15
+   IPv4 Address. . . . . . . . . . . : 192.168.1.100
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.1
+
+dns server 218 248 255 197
+218 248 255 193
