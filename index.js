@@ -117,18 +117,18 @@ const photos = [
     './images/image52.jpg',
 ]
 
-// function that will open the popup-image
+// function that will open the popup-image from the image gallery
 logo.addEventListener('click',  () =>{
 open.showModal()
    show.setAttribute("src", "/logo2.png" )
 
 })
-// function that will close the popup-image
+// function that will close the popup-image from the image gallery
 close.addEventListener('click', () =>{
     open.close();
     
 })
-// function that will show the image that was clicked
+// function that will show the image that was clicked from the image gallery
 img.addEventListener('click', (e) => {
      result = e.target
      const res = result.getAttribute("src" )
